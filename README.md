@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Pyremons
-- 👀 I’m interested in back end coding.
-- 🌱 I’m currently learning C#, SQL server and API usage.
-- 💞️ I’m looking to collaborate on projects suited to a beginner in c#.net
 - 📫 How to reach me : Pyremons@outlook.com
 
 <!---
